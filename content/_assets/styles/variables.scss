@@ -11,7 +11,7 @@ $content-background-color: null; // main text area background color
 $secondary-background-color: null; // only for modern theme
 
 // Declare the theme: modern/classic
-$theme: modern;
+$theme: classic;
 
 // Declare the navbar color style: normal/accent
 $navbar: normal;
@@ -41,7 +41,7 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 // -----------------------------------------------------------------------------
 $quire-menu-width: 352px;
 
-$quire-menu-color: $off-black;
+$quire-menu-color: $blue;
 $quire-menu-text-color: $white;
 
 // Image viewer (pop-up figure viewer & entry page viewer)
@@ -53,7 +53,7 @@ $quire-entry-image-icons-color: $white;
 
 // Active link and table-row color
 // -----------------------------------------------------------------------------
-$quire-hover-color: $light-yellow;
+$quire-hover-color: $blue;
 
 // Print/PDF stylesheet
 // -----------------------------------------------------------------------------
@@ -97,7 +97,7 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $quire-primary-font: $noto-sans !default;
   $quire-headings-font: $ibm-sans !default;
   $quire-footnotes-font: $noto-serif !default;
-  $quire-navigation-font: $noto-sans !default;
+  $quire-navigation-font: $blue !default;
   $accent-color: $red !default;
   $content-background-color: $white !default;
   $secondary-background-color: $off-white !default;

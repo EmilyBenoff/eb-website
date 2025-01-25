@@ -1,15 +1,146 @@
 figure_list:
 
-  - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
+  - id: "emily"
+    src: figures/emily.jpg
+    credit: "J. Paul Getty Museum, Los Angeles"
+
+  - id: "work"
+    src: figures/work.jpg
+
+  - id: "ivanhoe"
+    src: figures/ivanhoe.jpg
+    caption: "Ivanhoe Elementary, 2828 Herkimer St, Los Angeles, CA, founded 1889"
+
+  - id: "gen"
+    src: figures/gen.jpg
+    caption: "General Jeff Memorial Park (fka Gladys Park), 808 E 6th St, Los Angeles, CA, park constructed 1981, renamed 2022"
+  
+  - id: "cave"
+    src: figures/cave.jpg
+    caption: "Petroglyphs at Chumash Painted Cave State Historic Park, Santa Barbara, CA, created ca. 1600s"
+
+  - id: "eames"
+    src: figures/eames.jpg
+    caption: "Eames House (Case Study House No. 8), 203 Chautauqua Boulevard, Pacific Palisades, CA, designed and constructed 1949"
+
+  - id: "eames2"
+    src: figures/eames2.jpg
+  
+  - id: "wpa"
+    src: figures/wpa.jpg
+    caption: "Retaining wall built by WPA masons, Broad St. at Mission San Luis Obispo, CA, materials sourced from Bishop's Peak, constructed 1939"
+
+  - id: "ah"
+    src: figures/ah.jpg
+    caption: "Ah Louis Store, first East Asian store in San Luis Obispo County, 800 Palm St, San Luis Obispo, CA, opened in 1874"
+  
+  - id: "spooner"
+    src: figures/spooner.jpg
+    caption: "Spooner Ranch House, Montaña de Oro State Park, 3550 Pecho Valley Rd, Los Osos, CA, original structure built 1892"
+
+  - id: "mann"
+    src: figures/mann.jpg
+    caption: "Thomas Mann House, architect Julius Ralph Davidson, 1550 San Remo Drive, Pacific Palisades, CA, built 1941-1942"
+
+  - id: "mann2"
+    src: figures/mann2.jpg
+    caption: Mann's writing desk
+
+  - id: "wash"
+    src: figures/wash.jpg
+    caption: "Crown Car Wash, Googie style, 10381 W Pico Blvd, Los Angeles, CA, built ca. 1960"
+
+  - id: "flat"
+    src: figures/flat.jpg
+    caption: "Brigg's Terrace, Henninger Flats, 2260 Pinecrest Dr, Altadena, CA, built ca. 1875"
+
+  - id: "flat2"
+    src: figures/flat2.jpg
+    
+  - id: "flat3"
+    src: figures/flat3.jpg
+    caption: "Brigg's Terrace, Henninger Flats, interior at night"
+
+  - id: "flat4"
+    src: figures/flat4.jpg
+
+  - id: "grange"
+    src: figures/grange.jpg
+    caption: "White Oak Grange #182, Warren, ME, founded ca.1875"
+
+  - id: "robbins"
+    src: figures/robbins.jpg
+    caption: "Robbins House (now Union Historical Society) with Jen, 343 Common Rd, Union, ME, built 1847"
+
+  - id: "hart"
+    src: figures/hart.jpg
+    caption: "Hart Cemetary, Appleton, ME, established 1835"
+
+  - id: "hart2"
+    src: figures/hart2.jpg
+
+  - id: "hart3"
+    src: figures/hart3.jpg
+
+  - id: "school"
+    src: figures/school.jpg
+    caption: "Greer's Corner School (surviving one-room schoolhouse), architect Edmund Brewster, 264 Lincolnville Rd, Belmont, ME, built 1908"
+ 
+  - id: "school2"
+    src: figures/school2.jpg
+
+  - id: "church"
+    src: figures/church.jpg
+    caption: "Lincoln Avenue Methodist Church, now located in the Heritage Square Museum, 3800 Homer St, Los Angeles, CA, built 1897"
+  
+  - id: "circus"
+    src: figures/circus.jpg
+    caption: "Circus Circus, 2880 S Las Vegas Blvd, Las Vegas, NV, opened 1968"
+
+  - id: "beso"
+    src: figures/beso.jpg
+    caption: "El Ultimo Beso, muralist Hector Ponce,  Westlake Avenue at 7th Street, Los Angeles, CA"
 
   - id: "evans"
     src: figures/evans.jpg
     caption: "*Walker Evans, profile, hand up to face*, 1937."
     credit: "Library of Congress Prints and Photographs Division"
 
+  - id: "110"
+    src: figures/110.jpg
+    caption: "Harbor Freeway Overture, muralist Kent Twitchell, 8th St and the Harbor Freeway (110), Los Angeles, CA, created 1991-1993"
+
+  - id: "bath"
+    src: figures/bath.jpg
+    caption: "Spaarndammerbuurt public bathouse women's entrance, Zaanstraat 88, 1013 RW Amsterdam, Netherlands, built 1916"
+
+  - id: "spar"
+    src: figures/spar.jpg
+    caption: "Spaarndam, architect Michel de Klerk, Amsterdam School style, Spaarndammerbuurt, Amsterdam, Netherlands, built ca. 1920, restored 2015-2020"
+
+  - id: "mine"
+    src: figures/mine.jpg
+    caption: "Lost Horse Mine, Joshua Tree National Park, CA, active 1894-1931"
+  
+  - id: "mine2"
+    src: figures/mine2.jpg
+    caption: "Opposite the mine"
+
+  - id: "hq"
+    src: figures/hq.jpg
+    caption: "Former Black Panthers Headquarters, 1048 Peralta St, Oakland, CA, in use for BPP beginning 1970"
+
+  - id: "hotel"
+    src: figures/hotel.jpg
+    caption: "Jeffrey Hotel with Roy, 5001 Main St., Coulterville, CA, originally built ca. 1840s (since restored)"
+
+  - id: "island"
+    src: figures/island.jpg
+    caption: "St. Feichín’s Church, Omey IslandGooreen, Co. Galway, Ireland, built 7th century"
+
+  - id: "island2"
+    src: figures/island2.jpg
+    
   - id: "fig-1"
     label: "Figure 1"
     src: figures/evans-legionnaire.jpg
@@ -21,6 +152,21 @@ figure_list:
     src: figures/evans-sons.jpg
     caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
+  - id: "cabin"
+    src: figures/cabin.jpg
+    caption: "Loud's Cabin (Chipmunk Lodge), architect Frank Herbert Loud, Mount Garfield, CO, built 1902"
+
+  - id: "cabin2"
+    src: figures/cabin2.jpg
+
+  - id: "cabin3"
+    src: figures/cabin3.jpg
+    caption: "Loud's Cabin with Sam"
+
+  - id: "mayfair"
+    src: figures/mayfair.jpg
+    caption: "Mayfair Theatre, 506 N Howard St, Baltimore, MD 21201, first built 1880, renovated 1904"
 
   - id: "fig-3"
     label: "Figure 3"
