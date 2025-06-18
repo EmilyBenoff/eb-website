@@ -4,10 +4,13 @@ subtitle:
 layout: page
 order: 20
 ---
+## Digital Content Management
 
-## Writing 
+_Getty Vocabulary Program Editorial Guidelines_. Revised online ed. Edited by Patricia Harping and Emily Benoff. Los Angeles: Getty Research Institute, April 2025. [Link here](https://www.getty.edu/publications/vocabularies-editorial-guidelines/)
 
 _Categories for the Description of Works of Art_. Revised online ed. Edited by Murtha Bacca, Emily Benoff, and Patricia Harping. Los Angeles: Getty Research Institute, August 2024. [Link here](https://www.getty.edu/publications/categories-description-works-art/)
+
+## Writing 
 
 "The Clash of the Commons: An Imagined Library Discourse." _Urban Library Journal_ 28, no.2 (2022):1-23. [Link here](https://academicworks.cuny.edu/ulj/vol28/iss2/2/)
 
